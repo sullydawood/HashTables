@@ -1,4 +1,3 @@
-package assignment4;
 import java.util.Hashtable;
 
 public class StressTestGet extends StressTest{
