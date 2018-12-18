@@ -1,5 +1,3 @@
-package assignment4;
-
 public class MyOwnTester {
 
 	public static void main(String[] args) 
@@ -10,12 +8,12 @@ public class MyOwnTester {
 		myHash.put("xws", "SONG 2");
 		myHash.put("aaa", "SONG 2");
 		myHash.put("ddd", "SONG 3");
-		myHash.put("xxxtentacion", "SONG 3");
+		myHash.put("artist1", "SONG 3");
 		myHash.put("dad", "SONG 4");
-		myHash.put("xxxtentacion", "SONG 4");
-		myHash.put("xxxtentacion1", "SONG 4");
-		myHash.put("xxxtentacion2", "SONG 5");
-		myHash.put("xxxtentacion3", "SONG 6");
+		myHash.put("artist2", "SONG 4");
+		myHash.put("artist3", "SONG 4");
+		myHash.put("artist4", "SONG 5");
+		myHash.put("artist5", "SONG 6");
 		
 		//System.out.println(myHash.get("Lil Yachty"));
 		
