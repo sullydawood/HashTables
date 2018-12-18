@@ -1,7 +1,3 @@
-//NAME: Sully Dawood
-//ID: 260679328
-//COMP250 - Assignment 4
-
 package assignment4;
 import java.util.ArrayList;
 /**
