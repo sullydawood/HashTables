@@ -1,5 +1,3 @@
-package assignment4;
-
 public class StressTestPut extends StressTest{
     StressTestPut(Integer timeOut){
     	super(timeOut);
